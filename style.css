@@ -1,0 +1,7 @@
+body {
+    background-image: linear-gradient(to bottom right, #FFA500, #f59b2d);
+}
+
+.card-body {
+    min-height: 460px;
+}
